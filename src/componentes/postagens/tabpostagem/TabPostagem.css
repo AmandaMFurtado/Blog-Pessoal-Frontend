@@ -1,0 +1,24 @@
+.titulo1{
+    font-weight: bold !important;
+    color: black !important;
+ }
+
+ .titulo2{
+     font-weight: bold !important;
+     color: white !important;
+ }
+
+ .appbar{
+    background-color: #e84393 !important;
+ }
+
+ .imagem0{
+    background-image: url('../../../assets/img/sobremim.jpg');
+   border-radius: 50%;
+    
+ }
+ .fundo{
+    background-image: linear-gradient(to left,#f78fb3,#f8a5c2,#ff9ff3);
+ }
+
+ 

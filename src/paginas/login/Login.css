@@ -1,0 +1,29 @@
+
+.text-decoration-none{
+    text-decoration: none;
+}
+.texto1{
+    font-weight: bold !important;
+    color: white !important;
+}
+
+.texto{
+    color: white !important;
+}
+.imagem{
+    background-image: url(../../assets/img/login.jpg);
+    background-repeat: 'no-repeat';
+    width: 100vh;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+.botao{
+    background-color: #e84393 !important;
+    border-color: #e84393 !important;
+}
+
+.fundo{
+    background-color: #fd79a8;
+    /* degrade - background-image: linear-gradient(to left,#e84393,#fd79a8,#ff9ff3);*/
+}

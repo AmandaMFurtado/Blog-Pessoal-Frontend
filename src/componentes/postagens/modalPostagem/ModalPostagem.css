@@ -1,0 +1,12 @@
+
+/*Transforma o cursos em mãozinha*/
+.cursor{
+    cursor: pointer; 
+}
+
+.btnModal{
+    border-color: #e84393 !important;
+    background-color: #e84393!important;
+    color: white !important;
+    font-weight: bold !important;
+}

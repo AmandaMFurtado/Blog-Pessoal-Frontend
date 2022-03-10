@@ -1,0 +1,36 @@
+
+.titulos{
+    background-color: #fd79a8;
+    justify-content:center;
+    border-radius: 10px;
+    padding: 30px 30px 30px 30px;
+    margin: 30px;
+    }
+    
+.caixa{
+    background-image: url(../../assets/img/home.jpg)!important;
+    background-repeat: no-repeat!important;
+    background-size: cover!important;
+    background-position: center!important;
+    min-height: calc(120vh - 50px)!important;
+    width:100vh;
+}
+.titulo{
+    color:#ffffff!important;
+    font-weight: bold!important;
+  
+}
+.botao{
+    border-color: #ffffff!important;
+    background-color: #e84393!important;
+    color: #ffffff!important;
+}
+.postagens{
+    /*background-color: #ffffff!important;*/ 
+   /* background-image: linear-gradient(to left,#f78fb3,#f8a5c2,#ff9ff3);*/
+}
+
+.text-decoration{
+    text-decoration: none;
+}
+

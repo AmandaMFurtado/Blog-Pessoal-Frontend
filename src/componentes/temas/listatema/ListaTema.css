@@ -1,0 +1,31 @@
+.text-decorator-none{
+    text-decoration: none;
+}
+.text1{
+    color: white !important;
+    font-weight: bold !important;    
+}
+
+.text2{
+    color: white;
+    
+}
+
+.borda2{
+    background-color: #f8a5c2 !important;
+    justify-content:center;
+    border-radius: 10px;
+    padding: 30px 30px 30px 30px;
+    margin: 30px;
+}
+
+.botoes1{
+    border-color: #ffffff!important;
+    background-color: #e84393!important;
+    color: #ffffff!important;
+    font-weight: bold !important;
+}
+
+.fundo{
+    background-image: linear-gradient(to left,#f78fb3,#f8a5c2,#ff9ff3);
+}

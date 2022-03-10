@@ -1,0 +1,26 @@
+.appbar{
+    background-color: #e84393 !important;
+}
+
+.toolbar{
+    display:flex;
+    justify-content:center;
+}
+
+.blog{
+    font-weight: bold!important;
+    margin-right: 50px!important;
+}
+.cursor{
+    cursor: pointer;
+    color: white;
+}
+
+.text-decorator-none{
+    text-decoration: none !important;
+}
+
+.avatar-navbar{
+    background-color: #e84393 !important;
+    margin-left: 600px;
+}

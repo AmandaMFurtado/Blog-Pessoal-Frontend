@@ -1,0 +1,33 @@
+.text-decorator-none{
+    text-decoration: none;
+}
+
+.text1-listaPostagem{
+    color: #e84393 !important;
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+
+.text2-listaPostagem{
+    color: #e84393;
+    
+}
+
+.borda-listaPostagem{
+    border-style: dotted !important; 
+    border-color: #e84393 !important;
+    margin: 5px;
+    padding: 10px;
+    background-color: white;
+    justify-content:center;
+    border-radius: 10px;
+   
+}
+
+.botoes-listaPostagem{
+    border-color: #ffffff!important;
+    background-color: #e84393!important;
+    color: #ffffff!important;
+    font-weight: bold !important;
+}

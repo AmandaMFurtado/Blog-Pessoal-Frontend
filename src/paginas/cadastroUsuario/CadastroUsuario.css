@@ -1,0 +1,26 @@
+.imagem2{
+    background-image: url(../../assets/img/cadastrar.jpg);
+    background-repeat: 'no-repeat';
+    width: 100vh;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+
+}
+
+.textos2{
+    font-weight: bold !important;
+    color: white !important;
+}
+
+.botao1{
+
+    background-color: #e84393 !important;
+    border-color: #e84393 !important;
+    margin-right: 20px !important;
+    font-weight: bold !important
+}
+
+.fundo{
+    background-color: #fd79a8;
+}
