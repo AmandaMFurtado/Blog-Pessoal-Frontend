@@ -38,7 +38,8 @@ function TabPostagem() {
                             <Typography variant="body1" gutterBottom color="textPrimary" align="justify">A trilha sonora foi feita por Henry Mancini e junto com animação temos outros dois personagens: o Inspetor -um típico policial francês, que resolve os crimes, mas, sempre passa por apuros e o Tamanduá e a Formiga, que no enredo, o inseto consegue dobrar o mamífero. Foram 121 episódios, que começaram a ser produzido na Inglaterra.</Typography>
                             <Typography variant="body1" gutterBottom color="textPrimary" align="justify">A característica da Pantera é de um personagem de boa alma, mas muito desastrada, que acaba se envolvendo em confusões, ou de forma inocente atrapalhando a vida dos outros, sendo apaixonada pela cor rosa. O desenho chegou a ser premiado, lembrando que o filme, ganhou 2 versões novas na década de 2000, ambos tendo Steve Martin como protagonista. Em 2006 contava com a cantora Beyonce e, em 2009 com a indiana miss universo Aishwarya.</Typography>
                         </Grid>
-                        <Grid alignItems='center' xs={6} className='imagem0'>
+                        <Grid alignItems='center' xs={6} >
+                            <img src="https://i.imgur.com/aaMIzJ8.jpg" alt="pantera" width='500'height='500' />
                         </Grid>
                     </Grid>
                 </TabPanel>

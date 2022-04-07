@@ -137,7 +137,7 @@ function CadastroPost() {
 
     //redirecionamento para pagina postagens
     function back() {
-        history.push('/postagens')
+        history.push('/posts')
     }
 
     return (
