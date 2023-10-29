@@ -1,15 +1,77 @@
-<h1> Blog Pantera </h1>
+# Blog Pessoal - Frontend
 
-<h2>Pagina de login</h2>
+Este é o frontend da plataforma de blog pessoal. Aqui, os usuários podem visualizar postagens, realizar autenticação, gerenciar suas postagens e interagir com o conteúdo.
 
-<img align="center"  height="300" style="border-radius:50px;" src="https://i.imgur.com/mGBGFl4.png">
+## Índice
 
-<h2>Pagina inicial</h2>
+- [Tecnologias](#tecnologias)
+- [Instalação e Uso](#instalação-e-uso)
+- [Funcionalidades](#funcionalidades)
+- [Contribuição](#contribuição)
 
-<img align="center"  height="300" style="border-radius:50px;" src="https://i.imgur.com/1JzwFUU.png">
+## Tecnologias
 
-<h2>Criando uma nova postagem</h2>
+- React
+- Material-UI
+- Axios
+- Redux
 
-<img align="center"  height="300" style="border-radius:50px;" src="https://i.imgur.com/1hNVtHa.png">
+## Instalação e Uso
 
-<h3> Em construção </h3>
+1. **Clone o repositório**
+   ```bash
+   git clone https://github.com/AmandaMFurtado/blogpessoal-frontend.git
+   
+2. **Acesse o diretório**
+   ```bash
+   cd blogpessoal-frontend
+
+3. **Instale as dependências**
+   ```bash
+   npm install
+4. **Inicie o projeto**
+   ```bash
+    npm start
+5. **Acesso Local**
+   Após iniciar, o frontend estará disponível em `http://localhost:3000`.
+
+## Funcionalidades
+
+- Visualizar Postagens: Os usuários podem navegar e ler postagens.
+- Autenticação: Os usuários podem realizar login e registro.
+- Gerenciamento de Postagens: Usuários autenticados podem criar, atualizar e deletar postagens.
+- Comentários: Usuários podem adicionar comentários nas postagens.
+
+## Contribuição
+
+1. **Fork esse repositório**
+2. **Crie sua feature branch** 
+    ```bash
+    git checkout -b minha-feature
+    ```
+3. **Commit suas mudanças** 
+    ```bash
+    git commit -m 'feature: Minha nova feature'
+    ```
+4. **Push para a branch** 
+    ```bash
+    git push origin minha-feature
+    ```
+
+Antes de enviar o Pull Request, certifique-se de que a aplicação ainda está funcionando corretamente.
+
+
+---
+
+Desenvolvido com ♥ por [Amanda Marques](https://github.com/AmandaMFurtado)
+
+ [Acessar o blog](https://blog-pi-red.vercel.app/login)
+
+
+
+
+   
+
+
+
+
