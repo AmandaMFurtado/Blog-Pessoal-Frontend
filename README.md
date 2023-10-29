@@ -20,7 +20,7 @@ Este é o frontend da plataforma de blog pessoal. Aqui, os usuários podem visua
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/AmandaMFurtado/blogpessoal-frontend.git
+   git clone https://github.com/AmandaMFurtado/Blog-Pessoal-Frontend.git
    
 2. **Acesse o diretório**
    ```bash
